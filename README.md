@@ -1,4 +1,7 @@
+![Header](https://github.com/KaneHall/KaneHall/blob/main/github-header-image%20(10).png)
+
 <h1 align="center">Hi 👋, I'm Kane</h1>
+
 <h3 align="center">First-class honours Economics graduate. Ex Data analyst. Currently a junior software engineer that recently graduated from the School of Code bootcamp.</h3>
 
 - 🌱 I’m currently learning **Express.js**
