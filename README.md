@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Kane</h1>
 
-<h3 align="center">First-class honours Economics graduate. Ex Data analyst. Currently a junior software engineer that recently graduated from the School of Code bootcamp.</h3>
+<h3 align="center">First-class honours Economics graduate. 
+  Ex Data analyst. School of Code Graduate. Current Junior Software Engineer at Eurobase</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# and Angular**
 
 - 📝 I regularly write articles on [instagram/reviewsbydru](instagram/reviewsbydru)
 
