@@ -5,7 +5,7 @@
 <h3 align="center">First-class honours Economics graduate. 
   Ex Data analyst. School of Code Graduate. Current Junior Software Engineer at Eurobase</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 📝 I regularly write articles on [instagram/reviewsbydru](instagram/reviewsbydru)
 
